@@ -402,5 +402,6 @@ html {
   }
   .join {
     min-height: 276px;
+    margin-top: 40px;
   }
 }
